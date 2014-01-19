@@ -1,0 +1,1 @@
+This is the solution I found for the CS50x problem set 1, greedy. It takes a number in and pushes out how many coins would make up that amount of money.
